@@ -7,7 +7,7 @@ Hopefully it will be of some use to you.
 Documents my understanding of Dynamic Programming.
 
 #### How to idenfity a Dynamic Programming Problem
-"The normal form of dynamic programming problem is to calculate the maximum or minimum"[https://labuladong.gitbook.io/algo-en/i.-dynamic-programming/analysisofdynamicprogramming] 
+["The normal form of dynamic programming problem is to calculate the maximum or minimum"](https://labuladong.gitbook.io/algo-en/i.-dynamic-programming/analysisofdynamicprogramming)
 
 1. Find a recurrence relation
 2. Create a recursive solution
