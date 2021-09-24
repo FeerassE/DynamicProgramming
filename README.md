@@ -13,7 +13,7 @@ An overview of Dynamic Programming
 ### How to idenfity a Dynamic Programming Problem
 "The normal form of dynamic programming problem is to calculate the maximum or minimum"[<sup>1</sup>][1]
 
-"The core of the problem is enumeration. Because we are asked to calculate the max or min, we must enumerate all the feasible answers and find max or min among those." [<sup>1</sup>][1]
+"The core of the problem is enumeration. Because we are asked to calculate the max or min, we must enumerate all the feasible answers and find max or min among those."[<sup>1</sup>][1]
 
 
 1. Find a recurrence relation
