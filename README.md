@@ -6,11 +6,11 @@ Hopefully it will be of some use to you.
 ## Dynamic Programming Overview
 An overview of Dynamic Programming
 
-#### What is Dynamic Programming?
+### What is Dynamic Programming?
 
 "Dynamic programming is a technique for solving problems with overlapping subproblems."[<sup>3</sup>][3]
 
-#### How to idenfity a Dynamic Programming Problem
+### How to idenfity a Dynamic Programming Problem
 "The normal form of dynamic programming problem is to calculate the maximum or minimum"[<sup>1</sup>][1]
 
 "The core of the problem is enumeration. Because we are asked to calculate the max or min, we must enumerate all the feasible answers and find max or min among those." [<sup>1</sup>][1]
