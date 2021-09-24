@@ -8,7 +8,7 @@ Documents my understanding of Dynamic Programming.
 
 #### What is Dynamic Programming?
 
-"Dynamic programming is a technique for solving problems wiht overlapping subproblems.
+"Dynamic programming is a technique for solving problems with overlapping subproblems.
 
 #### How to idenfity a Dynamic Programming Problem
 ["The normal form of dynamic programming problem is to calculate the maximum or minimum"](https://labuladong.gitbook.io/algo-en/i.-dynamic-programming/analysisofdynamicprogramming)
@@ -22,12 +22,9 @@ Documents my understanding of Dynamic Programming.
 https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions
 
 ## Documentation
-https://labuladong.gitbook.io/algo-en/i.-dynamic-programming/analysisofdynamicprogramming
-https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems
-"Levitin, Anany. 2012. Introduction to the Design and Analysis of Algorithms - 3rd ed." pg. 283
-
-
-  
+[1]: <https://labuladong.gitbook.io/algo-en/i.-dynamic-programming/analysisofdynamicprogramming>
+[2]: <https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems>
+[3]: <https://www.pearson.com/us/higher-education/program/Levitin-Introduction-to-the-Design-and-Analysis-of-Algorithms-3rd-Edition/PGM223052.html>
 
 
 
