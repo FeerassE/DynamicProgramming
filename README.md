@@ -8,10 +8,11 @@ An overview of Dynamic Programming
 
 #### What is Dynamic Programming?
 
-Dynamic programming is a technique for solving problems with overlapping subproblems.[<sup>3</sup>][3]
+"Dynamic programming is a technique for solving problems with overlapping subproblems."[<sup>3</sup>][3]
 
 #### How to idenfity a Dynamic Programming Problem
-["The normal form of dynamic programming problem is to calculate the maximum or minimum"](https://labuladong.gitbook.io/algo-en/i.-dynamic-programming/analysisofdynamicprogramming)
+"The normal form of dynamic programming problem is to calculate the maximum or minimum"[<sup>1</sup>][1]
+
 
 1. Find a recurrence relation
 2. Create a recursive solution
